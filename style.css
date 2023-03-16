@@ -53,6 +53,9 @@
     .images{
         display: none !important;
     }
+    .footer_link{
+        gap: 30px !important;
+    }
 }
 
 .title{

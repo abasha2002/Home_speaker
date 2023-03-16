@@ -40,7 +40,7 @@
         width: 100% !important;
     }
     .product{
-        margin-top: 26px !important;
+        margin-top: 46px !important;
     }
     .footer_text{
         font-family: 'Roboto';
@@ -49,6 +49,9 @@
         font-size: 14px;
         line-height: 16px;
         color: #D1D1D1;
+    }
+    .images{
+        display: none !important;
     }
 }
 
@@ -98,9 +101,9 @@ footer a:nth-child(1){
 }
 .main_image{
     position: absolute;
-    left: 0;
+    left: -0.3%;
     bottom: 0;
-    width: 710px;
+    width: inherit;
     height: 650px;
 }
 .back{
@@ -113,7 +116,7 @@ footer a:nth-child(1){
 .gallery{
     z-index: 1;
     bottom: 80px;
-    left: 200px;
+    left: 100px;
 }
 .gallery div{
     width: 10px;
